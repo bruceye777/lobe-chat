@@ -243,9 +243,9 @@ LobeChat 的插件生态系统是其核心功能的重要扩展，它极大地�
 | [通义万象图像生成器](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **YoungTx** on **2024-08-09**</sup>  | 此插件使用阿里巴巴的通义万象模型根据文本提示生成图像。<br/>`图像` `通义` `万象`                                    |
 | [购物工具](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **shoppingtools** on **2024-07-19**</sup>      | 在 eBay 和 AliExpress 上搜索产品，查找 eBay 活动和优惠券。获取快速示例。<br/>`购物` `e-bay` `ali-express` `优惠券` |
 | [Savvy Trader AI](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **savvytrader** on **2024-06-27**</sup> | 实时股票、加密货币和其他投资数据。<br/>`股票` `分析`                                                               |
-| [社交搜索](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **say-apps** on **2024-06-02**</sup>           | 社交搜索提供访问推文、用户、关注者、图片、媒体等功能。<br/>`社交` `推特` `x` `搜索`                                |
+| [Search1API](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **fatwang2** on **2024-05-06**</sup>         | 搜索聚合服务，专为 LLMs 设计<br/>`web` `search`                                                                    |
 
-> 📊 Total plugins: [<kbd>**51**</kbd>](https://github.com/lobehub/lobe-chat-plugins)
+> 📊 Total plugins: [<kbd>**50**</kbd>](https://github.com/lobehub/lobe-chat-plugins)
 
  <!-- PLUGIN LIST -->
 
@@ -273,10 +273,11 @@ LobeChat 的插件生态系统是其核心功能的重要扩展，它极大地�
 
 <!-- AGENT LIST -->
 
-| 最近新增                                                                                                                                                             | 助手说明                                                                                                                     |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| [国际歌词创作人](https://chat-preview.lobehub.com/market?agent=letrista-internacional)<br/><sup>By **[mnector](https://github.com/mnector)** on **2024-08-29**</sup> | 专注于为西班牙语、英语和法语歌曲创作歌词，着重于叙事和所提供内容的情感。<br/>`歌词创作` `翻译` `音乐`                        |
-| [后退提问专家](https://chat-preview.lobehub.com/market?agent=step-back-expert)<br/><sup>By **[tiny656](https://github.com/tiny656)** on **2024-08-27**</sup>         | 你好！我是世界知识的专家，擅长用后退提问策略来帮助你更深入地理解和分析问题。请你输入一个问题，我会根据以下流程回答你的问题： |
+| 最近新增                                                                                                                                                                   | 助手说明                                                                                                                     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| [Nuxt 3/Vue.js 大师开发者](https://chat-preview.lobehub.com/market?agent=nuxt-vue-developer)<br/><sup>By **[Kadreev](https://github.com/Kadreev)** on **2024-09-03**</sup> | 专注于全栈开发，拥有 Nuxt 3 专业知识。<br/>`nuxt-3` `vue-js` `全栈开发` `java-script` `网络应用`                             |
+| [国际歌词创作人](https://chat-preview.lobehub.com/market?agent=letrista-internacional)<br/><sup>By **[mnector](https://github.com/mnector)** on **2024-08-29**</sup>       | 专注于为西班牙语、英语和法语歌曲创作歌词，着重于叙事和所提供内容的情感。<br/>`歌词创作` `翻译` `音乐`                        |
+| [后退提问专家](https://chat-preview.lobehub.com/market?agent=step-back-expert)<br/><sup>By **[tiny656](https://github.com/tiny656)** on **2024-08-27**</sup>               | 你好！我是世界知识的专家，擅长用后退提问策略来帮助你更深入地理解和分析问题。请你输入一个问题，我会根据以下流程回答你的问题： |
 
 1. 给出至少 3 个符合策略的可选后退提问。
 2. 分别回答这些后退提问。
@@ -284,9 +285,8 @@ LobeChat 的插件生态系统是其核心功能的重要扩展，它极大地�
 
 请告诉我你想要探讨的问题是什么？<br/>`后退提问` `思考策略` `问题分析` |
 \| [虚幻引擎大师](https://chat-preview.lobehub.com/market?agent=unreal-engine-master)<br/><sup>By **[thedivergentai](https://github.com/thedivergentai)** on **2024-08-27**</sup> | 虚幻游戏开发助手<br/>`游戏开发` `虚幻引擎` `软件工程` |
-\| [TypeScript 解决方案架构师](https://chat-preview.lobehub.com/market?agent=typescript-developer)<br/><sup>By **[swarfte](https://github.com/swarfte)** on **2024-08-24**</sup> | 精通 TypeScript、Node.js、Vue.js 3、Nuxt.js 3、Express.js、React.js 和现代 UI 库。<br/>`类型脚本` `java-script` `网页开发` `编码标准` `最佳实践` |
 
-> 📊 Total agents: [<kbd>**321**</kbd> ](https://github.com/lobehub/lobe-chat-agents)
+> 📊 Total agents: [<kbd>**322**</kbd> ](https://github.com/lobehub/lobe-chat-agents)
 
  <!-- AGENT LIST -->
 
