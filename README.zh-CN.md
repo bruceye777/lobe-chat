@@ -245,7 +245,7 @@ LobeChat 的插件生态系统是其核心功能的重要扩展，它极大地�
 | [Savvy Trader AI](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **savvytrader** on **2024-06-27**</sup> | 实时股票、加密货币和其他投资数据。<br/>`股票` `分析`                                                               |
 | [Search1API](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **fatwang2** on **2024-05-06**</sup>         | 搜索聚合服务，专为 LLMs 设计<br/>`web` `search`                                                                    |
 
-> 📊 Total plugins: [<kbd>**50**</kbd>](https://github.com/lobehub/lobe-chat-plugins)
+> 📊 Total plugins: [<kbd>**49**</kbd>](https://github.com/lobehub/lobe-chat-plugins)
 
  <!-- PLUGIN LIST -->
 
@@ -273,14 +273,14 @@ LobeChat 的插件生态系统是其核心功能的重要扩展，它极大地�
 
 <!-- AGENT LIST -->
 
-| 最近新增                                                                                                                                                                   | 助手说明                                                                                      |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [广告文案创作大师](https://chat-preview.lobehub.com/market?agent=advertising-copywriting-master)<br/><sup>By **[leter](https://github.com/leter)** on **2024-09-23**</sup> | 擅长产品功能分析与用户价值观广告文案创作<br/>`广告文案` `用户价值观` `营销策略`               |
-| [NovelAI 绘图助手](https://chat-preview.lobehub.com/market?agent=asis)<br/><sup>By **[samihalawa](https://github.com/samihalawa)** on **2024-09-23**</sup>                 | 我可以将您描述的场景转化为 NovelAI 的提示<br/>`深度学习` `图像生成` `算法` `提示`             |
-| [书籍总结专家](https://chat-preview.lobehub.com/market?agent=book-summary-expert-philo)<br/><sup>By **[saccohuo](https://github.com/saccohuo)** on **2024-09-23**</sup>    | 书本总结专家，提供精炼易读的书籍摘要和结构化输出。<br/>`书籍总结` `专家` `读书` `助手`        |
-| [首席执行官 GPT](https://chat-preview.lobehub.com/market?agent=ceo-gpt)<br/><sup>By **[leter](https://github.com/leter)** on **2024-09-23**</sup>                          | 旨在根据经验为初创公司首席执行官提供建议的人工智能导师<br/>`创业` `咨询` `管理` `战略` `指导` |
+| 最近新增                                                                                                                                                                    | 助手说明                                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| [C++/Qt](https://chat-preview.lobehub.com/market?agent=qt-c)<br/><sup>By **[liangyuR](https://github.com/liangyuR)** on **2024-09-30**</sup>                                | 擅长教授 C++/Qt 编程实践<br/>`c` `qt`                                                                                                  |
+| [生日邀请信息](https://chat-preview.lobehub.com/market?agent=birthday-invitation-message)<br/><sup>By **[tcmonster](https://github.com/tcmonster)** on **2024-09-29**</sup> | 专注于制作引人入胜和个性化的生日邀请信息，适应各种主题和语气。<br/>`信息构成` `个性化` `语气多样性` `活动细节整合` `互动方式`          |
+| [忌日信息](https://chat-preview.lobehub.com/market?agent=death-anniversary-message)<br/><sup>By **[tcmonster](https://github.com/tcmonster)** on **2024-09-29**</sup>       | 专注于以同情和共情的方式撰写敏感且发自内心的忌日信息。<br/>`慰问` `信息撰写` `悲伤支持` `文化意识` `情感敏感性`                        |
+| [Flux 提示生成器](https://chat-preview.lobehub.com/market?agent=flux-prompt-generator)<br/><sup>By **[tcmonster](https://github.com/tcmonster)** on **2024-09-29**</sup>    | Flux 提示生成助手：专注于为 Flux 模型生成高质量图像输出而创作详细、创意提示的专家。<br/>`提示生成` `图像生成` `艺术风格` `创意` `创作` |
 
-> 📊 Total agents: [<kbd>**389**</kbd> ](https://github.com/lobehub/lobe-chat-agents)
+> 📊 Total agents: [<kbd>**404**</kbd> ](https://github.com/lobehub/lobe-chat-agents)
 
  <!-- AGENT LIST -->
 

@@ -253,7 +253,7 @@ In addition, these plugins are not limited to news aggregation, but can also ext
 | [Savvy Trader AI](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **savvytrader** on **2024-06-27**</sup>             | Realtime stock, crypto and other investment data.<br/>`stock` `analyze`                                                                   |
 | [Search1API](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **fatwang2** on **2024-05-06**</sup>                     | Search aggregation service, specifically designed for LLMs<br/>`web` `search`                                                             |
 
-> 📊 Total plugins: [<kbd>**50**</kbd>](https://github.com/lobehub/lobe-chat-plugins)
+> 📊 Total plugins: [<kbd>**49**</kbd>](https://github.com/lobehub/lobe-chat-plugins)
 
  <!-- PLUGIN LIST -->
 
@@ -285,14 +285,14 @@ Our marketplace is not just a showcase platform but also a collaborative space. 
 
 <!-- AGENT LIST -->
 
-| Recent Submits                                                                                                                                                                           | Description                                                                                                                                                     |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Advertising Copywriting Master](https://chat-preview.lobehub.com/market?agent=advertising-copywriting-master)<br/><sup>By **[leter](https://github.com/leter)** on **2024-09-23**</sup> | Specializing in product function analysis and advertising copywriting that resonates with user values<br/>`advertising-copy` `user-values` `marketing-strategy` |
-| [NovelAI Drawing Assistant](https://chat-preview.lobehub.com/market?agent=asis)<br/><sup>By **[samihalawa](https://github.com/samihalawa)** on **2024-09-23**</sup>                      | I can turn the scenes you describe into prompts for NovelAI<br/>`deep-learning` `image-generation` `algorithm` `prompt`                                         |
-| [Book Summary Expert](https://chat-preview.lobehub.com/market?agent=book-summary-expert-philo)<br/><sup>By **[saccohuo](https://github.com/saccohuo)** on **2024-09-23**</sup>           | A book summary expert providing concise and easy-to-read book summaries and structured outputs.<br/>`book-summary` `expert` `reading` `assistant`               |
-| [CEO GPT](https://chat-preview.lobehub.com/market?agent=ceo-gpt)<br/><sup>By **[leter](https://github.com/leter)** on **2024-09-23**</sup>                                               | AI mentor trained to advise startup CEOs based on the experiences<br/>`entrepreneurship` `consulting` `management` `strategy` `guidance`                        |
+| Recent Submits                                                                                                                                                                              | Description                                                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [C++/Qt](https://chat-preview.lobehub.com/market?agent=qt-c)<br/><sup>By **[liangyuR](https://github.com/liangyuR)** on **2024-09-30**</sup>                                                | Excels in teaching C++/Qt coding practices<br/>`c` `qt`                                                                                                                                                                                |
+| [Birthday Invitation Messages](https://chat-preview.lobehub.com/market?agent=birthday-invitation-message)<br/><sup>By **[tcmonster](https://github.com/tcmonster)** on **2024-09-29**</sup> | Specializes in crafting engaging and personalized Birthday Invitation messages, catering to various themes and tones.<br/>`message-composition` `personalization` `tone-versatility` `event-detail-integration` `interaction-approach` |
+| [Death Anniversary Messages](https://chat-preview.lobehub.com/market?agent=death-anniversary-message)<br/><sup>By **[tcmonster](https://github.com/tcmonster)** on **2024-09-29**</sup>     | Specializes in crafting sensitive and heartfelt Death Anniversary messages with compassion and empathy.<br/>`condolences` `message-composition` `grief-support` `cultural-awareness` `emotional-sensitivity`                           |
+| [Flux Prompt Generator](https://chat-preview.lobehub.com/market?agent=flux-prompt-generator)<br/><sup>By **[tcmonster](https://github.com/tcmonster)** on **2024-09-29**</sup>              | Flux Prompt Generation Assistant: Expert in crafting detailed, creative prompts for high-quality image outputs from the Flux model.<br/>`prompt-generation` `image-generation` `art-style` `creativity` `crafting`                     |
 
-> 📊 Total agents: [<kbd>**389**</kbd> ](https://github.com/lobehub/lobe-chat-agents)
+> 📊 Total agents: [<kbd>**404**</kbd> ](https://github.com/lobehub/lobe-chat-agents)
 
  <!-- AGENT LIST -->
 
